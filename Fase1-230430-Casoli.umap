@@ -10264,7 +10264,8 @@
             "Dislivello in discesa": "328",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -14962,7 +14963,8 @@
             "Dislivello in discesa": "142",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         }
       ],
@@ -14998,9 +15000,13 @@
             "Data": "2023-04-30",
             "Ora": "08:16:47Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15021,9 +15027,13 @@
             "Data": "2023-04-30",
             "Ora": "08:19:43Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15044,9 +15054,13 @@
             "Data": "2023-04-30",
             "Ora": "08:51:36Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15067,9 +15081,13 @@
             "Data": "2023-04-30",
             "Ora": "09:09:31Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15090,9 +15108,13 @@
             "Data": "2023-04-30",
             "Ora": "09:12:12Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15113,9 +15135,13 @@
             "Data": "2023-04-30",
             "Ora": "09:13:00Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15136,9 +15162,13 @@
             "Data": "2023-04-30",
             "Ora": "09:29:19Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15159,9 +15189,13 @@
             "Data": "2023-04-30",
             "Ora": "09:17:55Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15182,32 +15216,13 @@
             "Data": "2023-04-30",
             "Ora": "09:28:51Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
-          }
-        },
-        {
-          "type": "Feature",
-          "geometry": {
-            "type": "Point",
-            "coordinates": [
-              10.6832,
-              44.036895
-            ]
-          },
-          "properties": {
-            "ulsp_type": "POI",
-            "Foto": "https://www.gaiagps.com/api/objects/photo/9976bbc2-19cb-4fe8-82df-0fadc1693526/image/full/?publickey=df3Qq7d5NMEO1JvKvAQ1z9it",
-            "Titolo": "La mia foto - 30/04/23 11:28:16",
-            "Descrizione": "",
-            "Altitudine": 463,
-            "Data": "2023-04-30",
-            "Ora": "09:28:16Z",
-            "Strumento": "Android HUAWEI FIG-LX1",
-            "_umap_options": {
-              "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15228,9 +15243,13 @@
             "Data": "2023-04-30",
             "Ora": "09:17:09Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15251,9 +15270,13 @@
             "Data": "2023-04-30",
             "Ora": "09:32:49Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15274,9 +15297,13 @@
             "Data": "2023-04-30",
             "Ora": "10:19:52Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15297,9 +15324,13 @@
             "Data": "2023-04-30",
             "Ora": "10:20:25Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15320,9 +15351,13 @@
             "Data": "2023-04-30",
             "Ora": "11:26:15Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15343,9 +15378,13 @@
             "Data": "2023-04-30",
             "Ora": "11:26:51Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15366,9 +15405,13 @@
             "Data": "2023-04-30",
             "Ora": "11:45:24Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15389,9 +15432,13 @@
             "Data": "2023-04-30",
             "Ora": "12:04:19Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15412,9 +15459,13 @@
             "Data": "2023-04-30",
             "Ora": "08:53:42Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15435,9 +15486,13 @@
             "Data": "2023-04-30",
             "Ora": "09:00:01Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15458,9 +15513,13 @@
             "Data": "2023-04-30",
             "Ora": "09:29:48Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15481,9 +15540,13 @@
             "Data": "2023-04-30",
             "Ora": "14:37:14Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15504,9 +15567,13 @@
             "Data": "2023-04-30",
             "Ora": "14:13:05Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15527,9 +15594,13 @@
             "Data": "2023-04-30",
             "Ora": "13:35:09Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15550,9 +15621,13 @@
             "Data": "2023-04-30",
             "Ora": "13:35:59Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15573,9 +15648,13 @@
             "Data": "2023-04-30",
             "Ora": "16:00:58Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15596,9 +15675,13 @@
             "Data": "2023-04-30",
             "Ora": "14:05:08Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15619,9 +15702,13 @@
             "Data": "2023-04-30",
             "Ora": "14:05:41Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15642,9 +15729,13 @@
             "Data": "2023-04-30",
             "Ora": "14:36:33Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15665,9 +15756,13 @@
             "Data": "2023-04-30",
             "Ora": "14:59:41Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         },
         {
@@ -15688,9 +15783,13 @@
             "Data": "2023-04-30",
             "Ora": "15:13:47Z",
             "Strumento": "Android HUAWEI FIG-LX1",
+            "Autore": "",
+            "Tag primario": "",
+            "Altri tag": "",
             "_umap_options": {
               "popupTemplate": "Default"
-            }
+            },
+            "Link": "https://sites.google.com/view/prin-underlandscape/attivit%C3%A0-di-ricerca/fase-1-sopralluoghi/28-maggio-2023-vagli-di-sotto"
           }
         }
       ],
@@ -15703,7 +15802,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# {Titolo} \n{{{Foto}|300}} \n##   ( [[https://sites.google.com/view/prin-underlandscape/home-page/attivit%C3%A0-sul-campo/{Link}|link]]) \n{Descrizione} \n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
+        "popupContentTemplate": "# {Titolo} {Tag primario}\n{{{Foto}|300}} \n##   [[{Link}|Link]] alla pagina dedicata \n{Descrizione} \n**Tag primario**: {Tag primario}\n**Altri tag**: {Altri tag}\n**Altitudine** (m): {Altitudine} \n--- \nScattata il {Data} alle {Ora} \ncon {Strumento} \nda {Autore}"
       }
     },
     {
@@ -15733,7 +15832,7 @@
         "iconClass": "Ball",
         "popupShape": "Panel",
         "popupTemplate": "Table",
-        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} ( [[https://sites.google.com/view/prin-underlandscape/{Link}|link]])\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[https://sites.google.com/view/prin-underlandscape/home-page/bibliografie/{Sito}|bibliografia]]"
+        "popupContentTemplate": "# SITO {Sito}\n{{{Foto}|300}}\n## {Titolo} \n## [[{Link}|Link]] alla pagina dedicata\n{Descrizione}\n---\n**Tipologia**: {Tipologia sito}\n**Definizione**: {Definizione}\n**Cronologia iniziale**: {Cronologia iniziale}\n**Cronologia finale**: {Cronologia finale}\n**Reperti ceramici**: {Reperti ceramici}\n**Reperti geologici**: {Reperti geologici}\n**Reperti organici**: {Reperti organici}\n**Altri manufatti**: {Altri manufatti}\n---\n**Altitudine** (m): {Altitudine}\n**Sicurezza**: {Sicurezza}\n**Accessibilità**: {Accessibilità}\n**Copertura rete mobile**: {Copertura rete mobile}\n**Copertura GPS**: {Copertura GPS}\n---\n**Provincia**: {Provincia}\n**Comune**: {Comune}\n**Toponimo**: {Toponimo}\n**Microtoponimo**: {Microtoponimo}\n**Strade d'accesso**: {Strade d'accesso}\n**Altra localizzazione**: {Altri elementi di localizzazione}\n---\n**Prima visita**: {Data} {Ora}\n**Strumento**: {Strumento}\n[[{Bibliografia}|Link]] alla bibliografia"
       }
     }
   ],

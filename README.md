@@ -1,4 +1,4 @@
-# Fase1-230430-Casoli ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230430-casoli_1041694))
+# Fase1-230430-Casoli ([mappa](https://umap.openstreetmap.fr/it/map/fase1-230430-casoli_1041694?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&editMode=disabled&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=none&captionBar=false&captionMenus=true))
 Prima ricognizione a Casoli per localizzare la Buca della Piella e collocare i primi QR-code
 ## Percorso: Piella
 *Non è disponibile l'immagine dell'accesso al percorso* 
