@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gpx version="1.1" creator="PyGPX">
+  <wpt lat="44.038121" lon="10.683608">
+    <ele>500</ele>
+    <name>Simbolo su roccia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.03814" lon="10.683976">
+    <ele>500</ele>
+    <name>Guado</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035732" lon="10.684008">
+    <ele>500</ele>
+    <name>Riparo sotto roccia</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.036337" lon="10.684227">
+    <ele>500</ele>
+    <name>Ingresso Buca La Piella2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.036297" lon="10.683437">
+    <ele>500</ele>
+    <name>Ingresso Buca la Piella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.036895" lon="10.6832">
+    <ele>500</ele>
+    <name>Interno Buca La Piella4</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.036895" lon="10.6832">
+    <ele>500</ele>
+    <name>Interno Buca La Piella3</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.036895" lon="10.6832">
+    <ele>500</ele>
+    <name>Interno Buca La Piella2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.036895" lon="10.6832">
+    <ele>500</ele>
+    <name>QRcode dentro Buca La Piella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.036895" lon="10.6832">
+    <ele>500</ele>
+    <name>Interno Buca La Piella</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.037009" lon="10.683904">
+    <ele>500</ele>
+    <name>Monte dalla Piella </name>
+    <desc>30 N</desc>
+  </wpt>
+  <wpt lat="44.035878" lon="10.683899">
+    <ele>500</ele>
+    <name>QRcode Casoli2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.038924" lon="10.683127">
+    <ele>500</ele>
+    <name>Interno Antro dell'Ugola2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.038924" lon="10.683127">
+    <ele>500</ele>
+    <name>Interno Antro dell'Ugola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.03869" lon="10.683179">
+    <ele>500</ele>
+    <name>Antro dell'Ugola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.039748" lon="10.683439">
+    <ele>500</ele>
+    <name>Deviazione per Antro dell'Ugola</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035319" lon="10.684561">
+    <ele>500</ele>
+    <name>Passaggio acqua</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035226" lon="10.675677">
+    <ele>500</ele>
+    <name>QRcode Chiesa di Sant'Andrea de Lacu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035229" lon="10.676813">
+    <ele>500</ele>
+    <name>QRcode Lago di Casoli</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.037693" lon="10.672578">
+    <ele>500</ele>
+    <name>Segnaletica tradizionale</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.037672" lon="10.672661">
+    <ele>500</ele>
+    <name>Segnaletica tradizionale2</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.03963" lon="10.66999">
+    <ele>500</ele>
+    <name>Chiesa della Madonna di Castello</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035905" lon="10.677558">
+    <ele>500</ele>
+    <name>Segnaletica in rovina</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035905" lon="10.677558">
+    <ele>500</ele>
+    <name>Metato</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035207" lon="10.675719">
+    <ele>500</ele>
+    <name>Sant'Andrea de Lacu</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.0319" lon="10.677441">
+    <ele>500</ele>
+    <name>Madonna di Col di Piano</name>
+    <desc></desc>
+  </wpt>
+  <wpt lat="44.035027" lon="10.67662">
+    <ele>500</ele>
+    <name>Deviazione per Sant'Andrea de Lacu</name>
+    <desc></desc>
+  </wpt>
+  <trk>
+    <name>Buca La Piella</name>
+    <desc>Sopralluogo per individuare Buca La Piella e l'Antro dell'Ugola, posizionando i QRcode lungo il percorso. Nella prima parte si segue il sentiero CAI 386 per poi continuare lungo il letto del Rio di Castello</desc>
+    <trkseg>
+      <trkpt lat="[10.682954, 44.04162, 410.78665946237743, 1682841696]" lon="[10.682954, 44.04162, 410.78665946237743, 1682841687]">
+        <ele>[10.682954, 44.04162, 410.78665946237743, 1682841697]</ele>
+      </trkpt>
+      <trkpt lat="[10.683139, 44.03888, 437.0892172874883, 1682854265]" lon="[10.683127, 44.038924, 436.22471182700247, 1682854261]">
+        <ele>[10.683022, 44.03875, 420.2926839822903, 1682854283]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Casoli-Lago di Casoli</name>
+    <desc>Sopralluogo e posizionamento di QRcode all'interno dell'abitato di Casoli e nella zona del Lago di Casoli, lungo il sentiero CAI 388, fino alla Madonna di Col di Piano</desc>
+    <trkseg>
+      <trkpt lat="[10.671991, 44.037725, 463.50999504793435, 1682861653]" lon="[10.672482, 44.037318, 496.8286527078599, 1682861651]">
+        <ele>[10.671738, 44.037392, 465.4665254810825, 1682861655]</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
